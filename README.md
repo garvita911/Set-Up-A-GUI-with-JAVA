@@ -24,3 +24,8 @@ button.addActionListener(e -> {
     String name = textField.getText();
     label.setText("Hello, " + name + "!");
 });
+
+
+# Your final result will look like :
+
+<img width="1919" height="379" alt="image" src="https://github.com/user-attachments/assets/883e46d2-2dfe-443a-ada6-a1757a3de6bc" />
